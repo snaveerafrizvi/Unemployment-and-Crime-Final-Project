@@ -1,0 +1,6 @@
+,violent crime,property crime,unemployment rate,high school graduate rate,per capita personal income,population density,percent of population below poverty level,full-time law enforcement employees rate,income inequality,% Males 15-24 years,% Males 25-39 years
+mean,2875.68,17618.58,0.09,0.82,47285.36,707.96,16.25,1.71,14.29,7.25,9.99
+std,6870.69,35002.42,0.04,0.12,17143.52,2449.28,5.06,0.84,2.68,1.56,2.43
+min,3.0,26.0,0.03,0.3,28563.0,1.82,4.9,0.66,6.82,3.11,5.05
+max,59924.0,252224.0,0.28,1.0,122748.0,18647.49,28.3,5.32,26.77,11.47,22.66
+median,679.0,5438.0,0.0,1.0,41581.0,108.0,16.0,1.0,14.0,7.0,10.0
