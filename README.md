@@ -21,7 +21,7 @@ Please refer to the Unemployment and Crime.pdf file for
 Please refer to the Modelling.ipynb file for the code for the regressions and descriptive statistics. 
 Please refer to the Visualizations.ipynb file for the code for the data visualizations.
 
-**Note:** _Please note that the python notebooks contains the relevant source codes only. For comprehensive analysis and explanations, please refer to the **Final Report (Special Projects in Econ Research - Unemployment and Crime.pdf).**_
+**Note:** _Please note that the python notebooks contains the relevant source codes only. For comprehensive analysis and explanations, please refer to the **Unemployment and Crime.pdf.**_
 
 ## Project Overview and Business Understanding
 
