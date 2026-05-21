@@ -37,7 +37,12 @@ The independent variables in this analysis are the violent and property crime ra
 
 The paper analyzes crime on two different levels; at the state level and the county level. Data for the state level crime rates (both violent and property) was obtained  from the FBI- Uniform Crime Reporting Program. The state crime rates are crime cases per 100,000 residents. Data for the county level crime rates was sourced from the California Department of Justice. The county crime rates are crime cases per 1000 residents. 
 
-The data used for this report has also been uploaded in the Data folder
+The dependent variable in this analysis is the Unemployment rate. Data for the state level
+unemployment rate was sourced from the Bureau of Labor Statistics. Data for the county level
+unemployment rate was obtained from the Employment Development Department of the State of
+California.
+
+The data used for this report has also been cleaned and uploaded in the Data folder
 
 ## Modelling and Evaluation
 
