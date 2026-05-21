@@ -13,6 +13,16 @@ The authors are students from the M.A Economics Program (Class of 2022) at the G
 This project was prepared for the Special Project in Economic Research as our Final Semester Thesis for Professor Michel Leonard. 
 The course aims to integrate material and tools taught throughout the M.A. program to address applied economic and policy problems.
 
+Please refer to the Unemployment and Crime.pdf file for
+
+* The detailed analysis and report 
+* All tables and figures
+
+Please refer to the Modelling.ipynb file for the code for the regressions and descriptive statistics. 
+Please refer to the Visualizations.ipynb file for the code for the data visualizations.
+
+**Note:** _Please note that the python notebooks contains the relevant source codes only. For comprehensive analysis and explanations, please refer to the **Final Report (Special Projects in Econ Research - Unemployment and Crime.pdf).**_
+
 ## Project Overview and Business Understanding
 
 This applied paper attempts to investigate whether a potential relationship exists between unemployment and violent/property crime, and if so then to what extent? The analysis begins with the hypothesis that a positive one exists and uses a fixed effects technique to empirically test it. Separate panel regressions are run for both violent and property crime for all the US states during the 2006-2016 period and the counties in California in the 2012-2017 time frame. 
@@ -40,17 +50,6 @@ A total of four fixed effects regressions (one for each level and type of crime 
 $$Crime_{it} = \alpha_i + \gamma_t + \beta_1 Unemployment_{it} + \beta_2 X_{it} + \epsilon_{it}$$
 
 where i and t are indices for the US states/counties and year respectively. $$Crime_{it}$$ represents violent/property crime, i captures the cross sectional fixed effect, t captures a year fixed effect,  $$\beta_1$$ is the semi-elasticity of the crime rate to the unemployment rate and $$X_{it}$$ indicates all the control variables.
-
-Please refer to the Unemployment and Crime.pdf file for
-
-* The detailed analysis and report 
-* All tables and figures
-
-Please refer to the Modelling.ipynb file for the code for the regressions and descriptive statistics. 
-Please refer to the Visualizations.ipynb file for the code for the data visualizations.
-
-**Note:** _Please note that the python notebooks contains the relevant source codes only. For comprehensive analysis and explanations, please refer to the **Final Report (Special Projects in Econ Research - Unemployment and Crime.pdf).**_
-
 
 ## Key Insights
 
