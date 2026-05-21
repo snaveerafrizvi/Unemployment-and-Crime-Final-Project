@@ -10,8 +10,8 @@ This project was authored by:
 
 The authors are students from the M.A Economics Program (Class of 2022) at the Graduate School of Arts and Sciences at New York University.
 
-This project was prepared for the Special Project in Economic Research as our Final Semester Thesis. 
-The aim of the course is to integrate material and tools that have been taught throughout the M.A. program in addressing applied economic and policy problems.
+This project was prepared for the Special Project in Economic Research as our Final Semester Thesis for Professor Michel Leonard. 
+The course aims to integrate material and tools taught throughout the M.A. program to address applied economic and policy problems.
 
 ## Project Overview and Business Understanding
 
