@@ -6,7 +6,7 @@ This project was authored by:
 
 * Syeda Naveera Fatima Rizvi (sr5752@nyu.edu)
 * Tiffany Jiayi Sun (js11828@nyu.edu)
-* Yingfan Yang (yy3620@nyu.edu)
+* ![Yingfan Yang](https://github.com/Beckyyang123) (yy3620@nyu.edu)
 
 The authors are students from the M.A Economics Program (Class of 2022) at the Graduate School of Arts and Sciences at New York University.
 
